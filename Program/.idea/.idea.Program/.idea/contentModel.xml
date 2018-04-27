@@ -5,7 +5,18 @@
     <e p="C:\Users\paulc\Documents\Git\CC Programming\Program" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="Program" t="IncludeRecursive">
+        <e p="Asteroid.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="input" t="Include" />
+        <e p="lvl1-0.inp" t="Include" />
+        <e p="lvl1-1.inp" t="Include" />
+        <e p="lvl1-2.inp" t="Include" />
+        <e p="lvl2-0.inp" t="Include" />
+        <e p="lvl2-1.inp" t="Include" />
+        <e p="lvl2-2.inp" t="Include" />
+        <e p="lvl2-3.inp" t="Include" />
+        <e p="lvl2-4.inp" t="Include" />
+        <e p="Matrix.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.cs" t="Include" />
         <e p="Program.csproj" t="IncludeRecursive" />

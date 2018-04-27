@@ -1,0 +1,10 @@
+C:\Users\paulc\Documents\Git\CC Programming\Program\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Users\paulc\Documents\Git\CC Programming\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\paulc\Documents\Git\CC Programming\Program\Program\bin\Debug\Program.exe
+C:\Users\paulc\Documents\Git\CC Programming\Program\Program\bin\Debug\Program.pdb
+C:\Users\paulc\Documents\Git\CC Programming\Program\Program\obj\Debug\Program.exe
+C:\Users\paulc\Documents\Git\CC Programming\Program\Program\obj\Debug\Program.pdb
+C:\Users\paulc\Documents\Git\CC Programming\Program\Program\bin\Debug\input
+C:\Users\paulc\Documents\Git\CC Programming\Program\Program\bin\Debug\lvl1-0.inp
+C:\Users\paulc\Documents\Git\CC Programming\Program\Program\bin\Debug\lvl1-1.inp
+C:\Users\paulc\Documents\Git\CC Programming\Program\Program\bin\Debug\lvl1-2.inp
